@@ -8,7 +8,7 @@ _- We're all gonna build it!_
  
 ## Links importantes
 
-* [Desenvolva uma state machine com rust](https://github.com/w3b3d3v/rust-state-machine)
+* [Desenvolva um state machine com rust](https://github.com/w3b3d3v/rust-state-machine)
 * [Playlist no Loom](https://www.loom.com/share/folder/ae95a87c4df04b4485296243637af107)
 * [Aprenda Rust](https://doc.rust-lang.org/rust-by-example/index.html)
 
